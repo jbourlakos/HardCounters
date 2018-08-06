@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: HardCounters
+## Notes: Observes and reports various quantities around a character, e.g. XP, elite kills, items looted.
+## Author: Ioannis @ Hellscream<EU>
+## Version: 8.0-0
+## SavedVariables: HardCountersDB
+
+HardCounters.lua
